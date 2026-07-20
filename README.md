@@ -22,6 +22,10 @@ To control an LED using a push button.
 6. Opposite side → GND
 
 The ESP32 uses its internal pull-up resistor, so no external resistor is required.
+# Images
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 9 24 12 PM" src="https://github.com/user-attachments/assets/3bc76e6f-d90a-460e-a325-c84c420dadc3" />
+<img width="719" height="403" alt="WhatsApp Image 2026-07-19 at 9 26 01 PM" src="https://github.com/user-attachments/assets/72f03991-57fc-46b5-8cfa-c0b12b965f27" />
+
 
 # Program
 void setup() {
